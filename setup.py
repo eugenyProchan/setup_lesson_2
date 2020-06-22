@@ -10,6 +10,6 @@ setup(
     packages=find_packages(),
     install_requires=[
         'requests >= 2.24.0',
-        'MyPackageName_1 @ git+https://git@github.com/eugenyProchan/setup_lesson_1@master#egg=MyPackageName_1',
+        'MyPackageName_1 @ git+https://git@github.com/eugenyProchan/setup_lesson_1.git@master',
     ]
 )
